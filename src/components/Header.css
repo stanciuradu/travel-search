@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  padding: 2rem;
+  border-bottom: 2px solid blue;
+  background-color: rgb(235, 189, 189);
+  align-items: center;
+  margin-bottom: 2rem;
+  font-family: 'EB Garamond', serif;
+}
+.header .button-navigation {
+  align-items: center;
+}
+.button-navigation button {
+  margin-right: 2rem;
+
+}
