@@ -1,7 +1,13 @@
-.travel-list{
-width: 85vw;
-margin: 0 auto;
-display: grid;
-grid-template-columns: 1fr 1fr 1fr;
-grid-gap: 20px;
+.travel-list {
+  width: 85vw;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 20px;
 }
+@media (max-width: 768px) { 
+    .travel-list{
+        display: flex;
+        flex-direction: column;
+    }
+ }

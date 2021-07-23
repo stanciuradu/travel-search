@@ -8,6 +8,12 @@
   margin-bottom: 2rem;
   font-family: 'EB Garamond', serif;
 }
+@media (max-width: 768px) {
+  .header{
+      display: flex;
+      flex-direction: column;
+  }
+}
 .header .button-navigation {
   align-items: center;
 }

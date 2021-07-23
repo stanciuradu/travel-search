@@ -15,6 +15,7 @@
     align-items: center;
     font-family: 'EB Garamond', serif;
 }
+
 .travel-item :hover{
     transform: scale(1.05);
 }
