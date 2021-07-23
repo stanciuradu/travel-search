@@ -1,7 +1,7 @@
 # Travel search App
 
 ## Functionalități
--filtrarea călătoriilor după un anumit string în cadrul inputului pentru search
+-filtrarea călătoriilor după un anumit string introdus în cadrul inputului pentru search
 
 
 
