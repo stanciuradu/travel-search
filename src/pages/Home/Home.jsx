@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import travels from "../utils/travels.json";
-import TravelList from "../components/TravelList";
-import "../components/Home.css";
+import travels from "../../utils/travels.json";
+import TravelList from "../../components/TravelList/TravelList";
+import "../../pages/Home/Home.css";
 
 export class Home extends Component {
   constructor() {

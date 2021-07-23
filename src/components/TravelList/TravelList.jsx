@@ -1,6 +1,6 @@
 import React from 'react';
-import TravelItem from './TravelItem';
-import '../components/TravelList.css';
+import TravelItem from '../TravelItem/TravelItem';
+import '../../components/TravelList/TravelList.css';
 
 function TravelList(props) {
     const{travels}=props;

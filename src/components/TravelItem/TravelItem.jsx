@@ -1,5 +1,5 @@
 import React from "react";
-import "../components/TravelItem.css";
+import "../../components/TravelItem/TravelItem.css";
 
 function TravelItem(props) {
   const { image, name } = props;
